@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TADS文件传输客户端", "TCPClient4.0\TADS文件传输客户端.csproj", "{2D356200-A082-40B8-9512-2450E475E941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TADS AEI传输客户端", "TCPClientAEI\TADS AEI传输客户端.csproj", "{10496F4D-9753-4265-AFBC-9038E1C26065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D356200-A082-40B8-9512-2450E475E941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D356200-A082-40B8-9512-2450E475E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D356200-A082-40B8-9512-2450E475E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D356200-A082-40B8-9512-2450E475E941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10496F4D-9753-4265-AFBC-9038E1C26065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10496F4D-9753-4265-AFBC-9038E1C26065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10496F4D-9753-4265-AFBC-9038E1C26065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10496F4D-9753-4265-AFBC-9038E1C26065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
